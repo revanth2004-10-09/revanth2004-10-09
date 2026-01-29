@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there, I'm Revanth! 👋:
 🔭 I’m currently working on<br>Improving my problem-solving skills through DSA and building small projects using C++, Python, and web technologies.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, college projects, or anything related to web development, data science, or automation.<br><br>🤝 I’m looking for help with<br>Writing clean, optimized code and understanding real-world project structure and best practices.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Data Science fundamentals, SQL, React.js, and core computer science concepts.<br><br>💬 Ask me about<br>C++, Python basics, SQL queries, React fundamentals, or how I prepare for technical interviews.
 
 
