@@ -1,11 +1,13 @@
+# 💫 Hey there, I'm Revanth! 👋
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Hi%2C+I'm+Revanth;Aspiring+Software+Developer;DSA+%7C+Data+Science+%7C+Web+Development;Learning+Every+Day%2C+Building+Step+by+Step" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Hi%2C+I'm+Revanth;Aspiring+Software+Developer+%7C+Data+Analyst;DSA+%7C+Data+Science+%7C+Web+Development;Learning+Every+Day%2C+Building+Step+by+Step" alt="Typing SVG" />
   </a>
 </p>
 
 
-# 💫 Hey there, I'm Revanth! 👋
+
 
 🔭 **Currently working on**  
 Improving my problem-solving skills through Data Structures & Algorithms and building small, hands-on projects using C++, Python, and modern web technologies.
